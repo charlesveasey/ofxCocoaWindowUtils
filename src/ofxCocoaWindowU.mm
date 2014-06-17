@@ -1,7 +1,6 @@
 #include <Cocoa/Cocoa.h>
 #include <AppKit/NSOpenGL.h>
 #include <OpenGL/OpenGL.h>
-#include "ofxTransparentWindowUtil.h"
 #include <iostream>
 #include <vector>
 
